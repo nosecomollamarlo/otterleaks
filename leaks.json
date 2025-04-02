@@ -1,0 +1,12 @@
+[
+    {
+        "filename": "leak1.txt",
+        "description": "Primer archivo filtrado",
+        "downloadlink": "https://example.com/leak1.txt"
+    },
+    {
+        "filename": "leak2.pdf",
+        "description": "Documento importante",
+        "downloadlink": "https://example.com/leak2.pdf"
+    }
+]
